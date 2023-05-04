@@ -1,13 +1,14 @@
-typeof "hello" //?
-typeof Symbol() //?
-typeof 1 //?
-typeof 123n //?
-typeof true //?
-typeof undefined //?
+typeof "hello" //?   string
+typeof Symbol() //?  symbol
+typeof 1 //?         number
+typeof 123n //?      bigint
+typeof true //?      boolean
+typeof undefined //? undefined
 ////////////////////////////////////////////////////////////////////////////////////////////////
-typeof {} //?
-typeof null //?
-typeof alert //?
+typeof {} //?        object
+typeof null //?      object
+typeof alert //?     function
+
 
 
 
