@@ -31,4 +31,4 @@ function searchInsert(nums: number[], target: number): number {
     return cash +1
 };
 
- console.log(searchInsert([1,3,5,6], 4) )//?
+
