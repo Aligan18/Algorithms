@@ -6,10 +6,11 @@ Projects
 // НЕ РЕШИЛ 
 
 152 $$ Maximum Product Subarray.ts
-33 Search in Rotated Sorted Array.ts
+
 15 3Sum.ts
 11 Container With Most Water.ts
 
 //Перерешал 
+33 $$Search in Rotated Sorted Array$$.ts
 238  $$Product of Array Except Self$$  .ts
 53 $$Maximum Subarray$$.ts
